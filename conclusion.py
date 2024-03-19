@@ -92,7 +92,7 @@ with st.sidebar:
         "</style>",
         unsafe_allow_html=True
     )
-    st.markdown("<h4>Enter Details for the Intro: </h4>", unsafe_allow_html=True)
+    st.markdown("<h4>Enter Details for the Conclusion: </h4>", unsafe_allow_html=True)
 
     # Blog Title
     blog_title = st.text_area("Blog Title/Topic/outlines") 

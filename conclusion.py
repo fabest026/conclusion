@@ -123,14 +123,14 @@ with st.sidebar:
             2. You have a {writing_styles} writing style. Targeted audience is {audience}.
             3. Mentions the number of words in the end of response.
             3. Avoiding jargon and complex terms.
-            4. Write like a human.
+            4. Write in easy to understand style. Don't use difficult to read and synmonstic language. Write likehood a human writer.
             5. Focus first on creating high quality, thorough content that provides value to readers. 
             7. Highlight the Primary Keyword "{primary_keyword}" in an H3 heading, and ensure that it is relevant to the content of the conclusion. 
-	        8. Summarize the main points of the article, highlighting the most important takeaways for the reader.
+	    8. Summarize the main points of the article, highlighting the most important takeaways for the reader.
             2. Include a clear and compelling call-to-action, such as a request for feedback, a link to related content, or an invitation to share the article on social media.
             9. Keep paragraphs 3 sentences or less. Turn long sentences into two shorter ones.
-	        10. Avoid introducing any new information or arguments in the conclusion, as this may confuse the reader and detract from the overall impact of the article.
-	        11. Maintain a consistent tone throughout the conclusion, ensuring that it provides a satisfying end to the piece while leaving the reader with a clear sense of what they have learned.
+	    10. Avoid introducing any new information or arguments in the conclusion, as this may confuse the reader and detract from the overall impact of the article.
+	    11. Maintain a consistent tone throughout the conclusion, ensuring that it provides a satisfying end to the piece while leaving the reader with a clear sense of what they have learned.
             12. Markdown formatting where applicable
             13. Write content so that it can outrank other websites. 
             14. Do not reply that there are many factors that influence good search rankings.
